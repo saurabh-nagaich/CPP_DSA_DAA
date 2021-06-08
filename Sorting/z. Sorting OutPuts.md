@@ -1,6 +1,5 @@
 ### OutPut Of Sorting
 
-__
 
 ## Wave Sort
 ```
