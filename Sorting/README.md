@@ -25,26 +25,26 @@
 
 ## Bubble Sort
 `
-    enter the size of an array : 6
-    enter the element 0 : 9
-    enter the element 1 : 7
-    enter the element 2 : 4
-    enter the element 3 : 6
-    enter the element 4 : 2
-    enter the element 5 : 3
-    your unSorted/given arr is :  9 7 4 6 2 3
-    your Sorted arr is :  2 3 4 6 7 9
+    enter the size of an array : 6 
+    enter the element 0 : 9 
+    enter the element 1 : 7 
+    enter the element 2 : 4 
+    enter the element 3 : 6 
+    enter the element 4 : 2 
+    enter the element 5 : 3 
+    your unSorted/given arr is :  9 7 4 6 2 3 
+    your Sorted arr is :  2 3 4 6 7 9 
 `
 
 ## Count Sort
 `
-    enter the length of an array : 6
-    enter the element of an array : 34
-    enter the element of an array : 2
-    enter the element of an array : 4
-    enter the element of an array : 2
-    enter the element of an array : 6
-    enter the element of an array : 2
+    enter the length of an array : 6 
+    enter the element of an array : 34 
+    enter the element of an array : 2 
+    enter the element of an array : 4 
+    enter the element of an array : 2 
+    enter the element of an array : 6 
+    enter the element of an array : 2 
     array before sorting : 
     /////////////////////
     Array : 34 2 4 2 6 2
@@ -68,12 +68,12 @@ If the ith element is 0 then swap the element to the low range, thus shrinking t
 Similarly, if the element is 1 then keep it as it is but shrink the unknown range.
 If the element is 2 then swap it with an element in high range.
 `
-    enter the length of an array : 5
-    enter the element of an array : 1
-    enter the element of an array : 0
-    enter the element of an array : 0
-    enter the element of an array : 2
-    enter the element of an array : 2
+    enter the length of an array : 5 
+    enter the element of an array : 1 
+    enter the element of an array : 0 
+    enter the element of an array : 0 
+    enter the element of an array : 2 
+    enter the element of an array : 2 
     array before sorting : 
     /////////////////////
     Array : 1 0 0 2 2
@@ -87,7 +87,7 @@ If the element is 2 then swap it with an element in high range.
 
 ## Insertion Sort
 `
-    enter the size of an array : 4
+    enter the size of an array : 4 
 
     enter the element 0 : 3
     enter the element 1 : 2
@@ -99,15 +99,15 @@ If the element is 2 then swap it with an element in high range.
 
 ## Merge Sort 
 `
-    ------- UnSorted arr --------
-    9 4 3 88 2 5 6 7 1 8
-    ------- Sorted arr --------
-    1 2 3 4 5 6 7 8 9 88
+    ------- UnSorted arr -------- 
+    9 4 3 88 2 5 6 7 1 8 
+    ------- Sorted arr ----------  
+    1 2 3 4 5 6 7 8 9 88 
 `  
 
 ## Quick Sort
 `
-    enter the size of an array : 6
+    enter the size of an array : 6 
 
     enter the element of an array : 12
     enter the element of an array : 8
@@ -129,7 +129,7 @@ If the element is 2 then swap it with an element in high range.
 
 ## Selection Sort
 `
-    enter the size of an array : 5
+    enter the size of an array : 5 
 
     enter the element 1 : 12
     enter the element 2 : 56
