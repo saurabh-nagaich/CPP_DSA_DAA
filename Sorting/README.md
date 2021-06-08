@@ -24,7 +24,7 @@
 ```
 
 ## Bubble Sort
-`
+```
     enter the size of an array : 6 
     enter the element 0 : 9 
     enter the element 1 : 7 
@@ -34,10 +34,10 @@
     enter the element 5 : 3 
     your unSorted/given arr is :  9 7 4 6 2 3 
     your Sorted arr is :  2 3 4 6 7 9 
-`
+```
 
 ## Count Sort
-`
+```
     enter the length of an array : 6 
     enter the element of an array : 34 
     enter the element of an array : 2 
@@ -54,7 +54,7 @@
     /////////////////////
     Array : 2 2 2 4 6 34 
     /////////////////////
-`
+```
 
 ## DNF Sort / 0,1,2 Sorting
 Approach:The problem is similar to our old post Segregate 0s and 1s in an array, and both of these problems are variation of famous Dutch national flag problem.
@@ -67,7 +67,7 @@ a[Hi+1..N] twos (blue)
 If the ith element is 0 then swap the element to the low range, thus shrinking the unknown range.
 Similarly, if the element is 1 then keep it as it is but shrink the unknown range.
 If the element is 2 then swap it with an element in high range.
-`
+```
     enter the length of an array : 5 
     enter the element of an array : 1 
     enter the element of an array : 0 
@@ -83,10 +83,10 @@ If the element is 2 then swap it with an element in high range.
     /////////////////////
     Array : 0 0 1 2 2
     /////////////////////
-`
+```
 
 ## Insertion Sort
-`
+```
     enter the size of an array : 4 
 
     enter the element 0 : 3
@@ -95,18 +95,18 @@ If the element is 2 then swap it with an element in high range.
     enter the element 3 : 5
 
     your Sorted arr is :  1 2 3 5
-`
+```
 
 ## Merge Sort 
-`
+```
     ------- UnSorted arr -------- 
     9 4 3 88 2 5 6 7 1 8 
     ------- Sorted arr ----------  
     1 2 3 4 5 6 7 8 9 88 
-`  
+```  
 
 ## Quick Sort
-`
+```
     enter the size of an array : 6 
 
     enter the element of an array : 12
@@ -125,10 +125,10 @@ If the element is 2 then swap it with an element in high range.
     /////////////////////
     Array : 1 2 3 5 8 12 
     /////////////////////
-`
+```
 
 ## Selection Sort
-`
+```
     enter the size of an array : 5 
 
     enter the element 1 : 12
@@ -138,4 +138,4 @@ If the element is 2 then swap it with an element in high range.
     enter the element 5 : 1
 
     your Sorted arr is :  1 3 4 12 56
-`
+```
