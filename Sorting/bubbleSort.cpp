@@ -35,11 +35,14 @@ int main()
     int arr[size];
     for (int i = 0; i < size; i++)
     {
-        cout << endl;
         cout << "enter the element " << i << " : ";
         cin >> arr[i];
     }
-
+    cout << "your unSorted/given arr is : ";
+    for (int i = 0; i < size; i++)
+    {
+        cout << " " << arr[i];
+    }
     int *newArr = bubbleSort(arr, size);
 
     cout << endl
