@@ -3,7 +3,8 @@
 
 ## Wave Sort
 
-Given an unsorted array of integers, sort the array into a wave like array. An array ‘arr[0..n-1]’ is sorted in wave form if arr[0] >= arr[1] <= arr[2] >= arr[3] <= arr[4] >= …..
+Given an unsorted array of integers, sort the array into a wave like array. An array ‘arr[0..n-1]’ is sorted in wave form  
+if arr[0] >= arr[1] <= arr[2] >= arr[3] <= arr[4] >= …..
 
 ```
     Array before sorting : 
@@ -137,10 +138,10 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 ```
 
 ## Selection Sort
-    The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
+The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
     
-    1. The subarray which is already sorted. 
-    2. Remaining subarray which is unsorted.
+1. The subarray which is already sorted. 
+2. Remaining subarray which is unsorted.
 ```
     enter the size of an array : 5 
 
